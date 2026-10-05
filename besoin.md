@@ -10,5 +10,5 @@
 - lab 1 : Aymane Salamoune / Soukayna Assas
 - lab 2 : Nour Mesbahi / Ayoub El Faquihi
 - lab 3 : Mohamed Yasser Mesbahi
-- tache 1 : Mohamed Yasser Mesbahi
+- tache 1 : Nour Mesbahi
 - tache 2 : All
